@@ -17,5 +17,21 @@ namespace TravelApp
         {
             InitializeComponent();
         }
+
+        private void LogIn_Clicked(object sender, EventArgs e)
+        {
+            bool isemailEmpty = string.IsNullOrEmpty(emailEntry.Text);
+            bool ispasswordEmpty = string.IsNullOrEmpty(passwordEntry.Text);
+
+            if (isemailEmpty || ispasswordEmpty)
+            {
+                loginLabel.Text = "Email or Password not entered!";
+            }
+            else
+            {
+                loginLabel.Text = "Login Successful!";
+                
+            }
+        }
     }
 }

@@ -1011,11 +1011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp.iOS\\TravelApp.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp.iOS\\TravelApp.iOS.csproj",
       "projectName": "TravelApp.iOS",
-      "projectPath": "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp.iOS\\TravelApp.iOS.csproj",
+      "projectPath": "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp.iOS\\TravelApp.iOS.csproj",
       "packagesPath": "C:\\Users\\salik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp.iOS\\obj\\",
+      "outputPath": "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1036,8 +1036,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp\\TravelApp.csproj": {
-              "projectPath": "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp\\TravelApp.csproj"
+            "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp\\TravelApp.csproj": {
+              "projectPath": "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp\\TravelApp.csproj"
             }
           }
         }

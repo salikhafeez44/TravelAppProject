@@ -6,11 +6,26 @@
              mc:Ignorable="d"
              x:Class="TravelApp.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+    <StackLayout VerticalOptions="Center"
+                 Margin="35,0,35,0">
+        <Entry x:Name="emailEntry"
+               Placeholder="Email adress or mobile number"
+               TextColor="{StaticResource blueColor}"
+               Keyboard="Email"/>
+        <Entry x:Name="passwordEntry"
+               Placeholder="Password"
+               TextColor="{StaticResource blueColor}"
+               IsPassword="True"/>
+        <Button Text="LOG IN"
+                x:Name="LogIn"
+                Clicked="LogIn_Clicked"
+                Margin="0,20,0,0"
+                Style="{StaticResource normalButton}"
+                TextColor="White"/>
+        <Label  Text="Enter you credentials"
+               x:Name="loginLabel"
+                BackgroundColor="White"/>
 
+    </StackLayout>
+    
 </ContentPage>

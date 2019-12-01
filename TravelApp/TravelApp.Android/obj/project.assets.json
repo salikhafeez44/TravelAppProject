@@ -1917,11 +1917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp.Android\\TravelApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp.Android\\TravelApp.Android.csproj",
       "projectName": "TravelApp.Android",
-      "projectPath": "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp.Android\\TravelApp.Android.csproj",
+      "projectPath": "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp.Android\\TravelApp.Android.csproj",
       "packagesPath": "C:\\Users\\salik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp.Android\\obj\\",
+      "outputPath": "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1942,8 +1942,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp\\TravelApp.csproj": {
-              "projectPath": "C:\\Users\\salik\\Desktop\\VSProj\\TravelApp\\TravelApp\\TravelApp.csproj"
+            "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp\\TravelApp.csproj": {
+              "projectPath": "C:\\Users\\salik\\Desktop\\VSProject\\TravelAppProject\\TravelApp\\TravelApp\\TravelApp.csproj"
             }
           }
         }
