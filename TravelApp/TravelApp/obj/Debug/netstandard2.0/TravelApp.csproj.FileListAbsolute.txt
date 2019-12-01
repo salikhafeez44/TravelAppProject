@@ -24,3 +24,8 @@ C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp\obj\Debug\
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp\obj\Debug\netstandard2.0\ref\TravelApp.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.pdb
+C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelPage.xaml.g.cs

@@ -30,7 +30,7 @@ namespace TravelApp
             else
             {
                 loginLabel.Text = "Login Successful!";
-                
+                Navigation.PushAsync(new HomePage());
             }
         }
     }
