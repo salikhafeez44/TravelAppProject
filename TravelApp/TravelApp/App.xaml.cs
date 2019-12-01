@@ -4,13 +4,19 @@ using Xamarin.Forms.Xaml;
 
 namespace TravelApp
 {
-    public partial class App : Application
+    public partial class TravelApp : Application
     {
-        public App()
+        public static string DatabaseLocation = string.Empty;
+        public TravelApp()
         {
             InitializeComponent();
-
             MainPage = new NavigationPage(new MainPage());
+        }
+        public TravelApp(string databaseLocation)
+        {
+            InitializeComponent();
+            MainPage = new NavigationPage(new MainPage());
+            DatabaseLocation = databaseLocation;
         }
 
         protected override void OnStart()

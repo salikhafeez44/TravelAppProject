@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("TravelApp.App.xaml", "App.xaml", typeof(global::TravelApp.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("TravelApp.App.xaml", "App.xaml", typeof(global::TravelApp.TravelApp))]
 
 namespace TravelApp {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]
-    public partial class App : global::Xamarin.Forms.Application {
+    public partial class TravelApp : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(TravelApp));
         }
     }
 }
