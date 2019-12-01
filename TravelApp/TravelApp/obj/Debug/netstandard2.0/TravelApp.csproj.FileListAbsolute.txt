@@ -1,0 +1,13 @@
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\bin\Debug\netstandard2.0\TravelApp.deps.json
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\bin\Debug\netstandard2.0\TravelApp.dll
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\bin\Debug\netstandard2.0\ref\TravelApp.dll
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\bin\Debug\netstandard2.0\TravelApp.pdb
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.csprojAssemblyReference.cache
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.AssemblyInfoInputs.cache
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.AssemblyInfo.cs
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.dll
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\obj\Debug\netstandard2.0\ref\TravelApp.dll
+C:\Users\salik\Desktop\VSProj\TravelApp\TravelApp\obj\Debug\netstandard2.0\TravelApp.pdb
