@@ -18,26 +18,26 @@ namespace TravelApp
             InitializeComponent();
         }
 
-        private void ToolbarItem_Clicked(object sender, EventArgs e)
+        private void SaveToolbarItem_Clicked(object sender, EventArgs e)
         {
             Post post = new Post()
             {
                 Experience = experienceEntry.Text
             };
 
-            SQLiteConnection conn = new SQLiteConnection(TravelApp.DatabaseLocation);
-            conn.CreateTable<Post>();
-            int rows=conn.Insert(post);
-            conn.Close();
-
-            if (rows > 0)
+            using (SQLiteConnection conn = new SQLiteConnection(TravelApp.DatabaseLocation))
             {
-               DisplayAlert("Success", "Experiance successfully inserted!","OK");
+                conn.CreateTable<Post>();
+                int rows = conn.Insert(post);
+                if (rows > 0)
+                {
+                    DisplayAlert("Success", "Experiance successfully inserted!", "OK");
+                }
+                else
+                {
+                    DisplayAlert("Failure", "Experiance failed to be inserted!", "OK");
+                }
             }
-            else
-            {
-                DisplayAlert("Failure", "Experiance failed to be inserted!","OK");
-            }    
 
         }
     }
