@@ -1,11 +1,13 @@
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\TravelApp.iOS.exe
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\TravelApp.iOS.pdb
+C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\Plugin.Geolocator.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
 C:\Users\salik\Desktop\VSProject\TravelAppProject\TravelApp\TravelApp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
